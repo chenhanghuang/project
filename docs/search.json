@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nMy CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my site",
+    "section": "",
+    "text": "My name is Chenhang Huang, a junior double majoring in statistics and book and media study at the University of Toronto. I am from China and my hobbies include listening to podcasts, making videos and learning about fashion. I’ve owned a clothing brand for half a year, and I’ve been able to sell around 300,000 dollars in sales through my design and marketing and social media operations.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "contact",
+    "section": "",
+    "text": "my email is chenhang.huang@mail.utoronto.ca"
+  }
+]

@@ -1,0 +1,12 @@
+---
+title: "Welcome to my site"
+---
+
+My name is Chenhang Huang, a junior double majoring in statistics and book and media study at the University of Toronto. I am from China and my hobbies include listening to podcasts, making videos and learning about fashion. I've owned a clothing brand for half a year, and I've been able to sell around 300,000 dollars in sales through my design and marketing and social media operations.
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
